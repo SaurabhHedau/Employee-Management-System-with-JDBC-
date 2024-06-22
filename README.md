@@ -9,3 +9,5 @@ class name as DBUtility it is Database Utility program that responsible for comm
 As we having Interface that are responsible for data abstraction, so this is the EmployeeDAOImpl class act as implemented class of EmployeeDAO interface to implement unimplemented methods with some owned feature, each method comes with different behavior that very need full for our core concept that is employee management system.
 
 The main class that provides user-friendly console to manage visible data and manipulate data by any end user. It is provides after started unstoppable menus until user don’t shut the system also it provides all necessary menus to manage Employee information and bring data from database and print to the console for any HR or end-user to manage Employee Management System. 
+
+note : before execute the project make sure suitable OJDBC.jar attached with your project
